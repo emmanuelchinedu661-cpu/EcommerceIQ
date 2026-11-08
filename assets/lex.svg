@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- LEX: L built from rising bars inside a tile -->
+  <rect x="136" y="40" width="240" height="240" rx="56" fill="#1E3A8A"/>
+  <g fill="#FFFFFF">
+    <rect x="182" y="92" width="34" height="140" rx="6"/>
+    <rect x="182" y="198" width="148" height="34" rx="6"/>
+  </g>
+  <rect x="230" y="150" width="26" height="40" rx="5" fill="#93C5FD"/>
+  <rect x="264" y="124" width="26" height="66" rx="5" fill="#60A5FA"/>
+  <rect x="298" y="92" width="26" height="98" rx="5" fill="#F59E0B"/>
+  <g fill="none" stroke="#2563EB" stroke-width="22" stroke-linecap="square">
+    <path d="M150 358 V444 H206"/>
+    <path d="M296 358 H240 V444 H296 M240 401 H286"/>
+    <path d="M330 358 L384 444 M384 358 L330 444"/>
+  </g>
+</svg>
